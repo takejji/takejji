@@ -1,4 +1,23 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" width="300"/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50"/>
+
+junior devOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> on Python 🐍
+
+
+- 🐒: I’m very lazy monkey.
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -31,7 +50,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
 
